@@ -1,6 +1,6 @@
 <h1>Hello, I'm Tanweer! <br/><a href="">Computer Science Student</a>, <a href="">Business Computing Student</a>, <a href="">UCT Student</a></h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2> Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
