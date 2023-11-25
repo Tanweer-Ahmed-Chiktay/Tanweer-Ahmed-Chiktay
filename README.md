@@ -1,7 +1,7 @@
 <h1>Hello, I'm Tanweer! <br/><a href="">Computer Science Student</a>, <a href="">Business Computing Student</a>, <a href="">UCT Student</a></h1>
 
 <h2> Projects:</h2>
-
+<br/><a href="https://github.com/Tanweer-Ahmed-Chiktay/quiz">Simple Python Quiz Game</a>
 
 <h2> 🤳 Connect:</h2>
 
