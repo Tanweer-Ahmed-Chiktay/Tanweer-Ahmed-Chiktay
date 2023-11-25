@@ -1,8 +1,8 @@
 <h1>Hello, I'm Tanweer! <br/><a href="">Computer Science Student</a>, <a href="">Business Computing Student</a>, <a href="">UCT Student</a></h1>
 
 <h2> Projects:</h2>
-<br/><a href="https://github.com/Tanweer-Ahmed-Chiktay/quiz">Simple Python Quiz Game</a>
-
+<a href="https://github.com/Tanweer-Ahmed-Chiktay/quiz">Simple Python Quiz Game</a>
+<br/>
 <h2> 🤳 Connect:</h2>
 
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
