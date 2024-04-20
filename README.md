@@ -2,6 +2,7 @@
 
 <h2> Projects:</h2>
 <a href="https://github.com/Tanweer-Ahmed-Chiktay/quiz">Simple Python Quiz Game</a>
+<n/>
 <a href="https://github.com/Tanweer-Ahmed-Chiktay/Website">Designfiniti Website</a>
 <br/>
 <h2> 🤳 Connect:</h2>
