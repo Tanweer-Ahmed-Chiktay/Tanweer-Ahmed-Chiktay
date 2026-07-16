@@ -1,6 +1,6 @@
 # Tanweer Ahmed Chiktay
 
-Software engineer building AI products — edtech, legal tech, and interactive 3D. Currently studying Computer Science and Business Science at the University of Cape Town.
+Software engineer building AI products — edtech, legal tech, and interactive 3D. Graduated BSc Computer Science & Business Computing from the Univeristy of Cape Town. Currently studying Computer Science Post-Graduate Honours at the University of Cape Town.
 
 ---
 
