@@ -21,6 +21,11 @@ Legal AI platform for law firms. AI chat with streaming, browser automation for 
 
 `Aurora DSQL` `AWS Bedrock` `Express 5` `React 19` `Clerk` `Playwright` `Steel.dev`
 
+### [Insyte AI](https://github.com/Tanweer-Ahmed-Chiktay/Insyte_AI)
+AI-powered Gmail manager — intelligent email summarization, smart composition assistance, and productivity features built on top of the Gmail API and LLMs.
+
+`Gmail API` `AI` `TypeScript`
+
 ### [Khanya AI](https://github.com/Tanweer-Ahmed-Chiktay/Khanya_ai)
 AI tutor built for the South African CAPS curriculum — essay writer, AI whiteboard, and a code playground. Designed for learners without access to expensive tutoring.
 
